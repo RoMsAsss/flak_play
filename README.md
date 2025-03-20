@@ -1,4 +1,4 @@
-# flak_play
+# flask_play
 ## Survival Royale: Онлайн-игра на выживание
 Survival Royale Logo
 _Динамичная текстовая игра в стиле Battle Royale, где игроки соревнуются за выживание в реальном времени!_
